@@ -1,0 +1,42 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:743px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3722_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:686px;
+  height:498px;
+}
+#u3722 {
+  border-width:0px;
+  position:absolute;
+  left:58px;
+  top:29px;
+  width:685px;
+  height:497px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+}
+#u3722_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:685px;
+  word-wrap:break-word;
+}
